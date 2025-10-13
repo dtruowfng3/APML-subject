@@ -1,0 +1,10 @@
+*.pt
+*.mp4
+*.png
+/*/archive
+/ForestFormer3D
+/*/results
+/*/frames
+/*/seg_masks
+/*/seg_masks2
+/*/seg_masks3
