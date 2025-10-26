@@ -1,15 +1,5 @@
 # Hướng dẫn Setup Conda Environment cho APML Project
 
-## 💻 Cấu hình hệ thống
-
-- **CPU**: Intel Core i5-12450HX
-- **GPU**: NVIDIA GeForce RTX 3050 6GB VRAM
-- **RAM**: 16GB DDR4
-- **OS**: Windows 10/11
-- **Python**: 3.12.7
-
-## 🚀 Cài đặt Conda
-
 ### Bước 1: Tải và cài đặt Anaconda/Miniconda
 
 - Truy cập: https://www.anaconda.com/products/distribution
