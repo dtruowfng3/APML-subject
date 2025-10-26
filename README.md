@@ -1,3 +1,16 @@
+## 🚀 Setup Environment
+
+### Cài đặt Conda Environment
+```bash
+conda env create -f environment.yml
+
+conda activate MLAI
+```
+
+**Chi tiết hướng dẫn**: >>> [CONDA_SETUP.md](CONDA_SETUP.md) setup chi tiết.
+
+## 📚 Các Topics
+
 ## Topic 01
 - Áp dụng thuật toán **Naive Bayes** classifier cho bài toán phân loại cơ bản
 - Ứng dụng trong phân loại văn bản với ***email spam detection***
